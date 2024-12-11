@@ -1,4 +1,5 @@
-# My Mini Calendar
+# My Mini Calendar [**🔗Live Link**](https://varunyadavgithub.github.io/My-Mini-Calendar/)
+
  Welcome to my project which is Mini Calendar. This is a advance mini calendar which is developed using HTML, CSS and JavaScript technology.<br>
  It is simplifies scheduling by providing a user-friendly interface with real-time updates. 
  # Screenshot 📷
